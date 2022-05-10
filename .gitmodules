@@ -1,0 +1,3 @@
+[submodule "nim-notes.wiki"]
+	path = nim-notes.wiki
+	url = git@github.com:thadeudepaula/nim-notes.wiki.git
